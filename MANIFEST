@@ -15,3 +15,4 @@ t/templates/test_top.tmpl
 META.yml                                 Module meta-data (added by MakeMaker)
 eg/run.pl
 Build.PL
+MANIFEST.SKIP
