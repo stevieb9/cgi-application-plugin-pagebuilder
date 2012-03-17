@@ -15,3 +15,5 @@ t/templates/test_top.tmpl
 eg/run.pl
 Build.PL
 MANIFEST.SKIP
+META.yml
+META.json

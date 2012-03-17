@@ -9,3 +9,5 @@ Makefile$
 ^test/
 .hg/
 .hgignore$
+^MYMETA.json$
+^MYMETA.yml$
